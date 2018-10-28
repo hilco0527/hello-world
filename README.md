@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+Simple is the best!
